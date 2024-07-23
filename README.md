@@ -8,6 +8,8 @@ Request with GET/HEAD method cannot have body.
 
 To reproduce:
 
+Used node version: `22.4.0`
+
 ```
 npm install
 npx mocha test.js
